@@ -4,7 +4,7 @@ library(outliers)
 library(dplyr)
 
 
-stipend.dat <- read.csv('C:/Users/mattd/Desktop/Projects/Python Projects/Stipe And Locations.txt', sep='\t')
+stipend.dat <- read.csv('stipend_and_locations.txt', sep='\t')
 
 
 #FIND OUTLIERS
